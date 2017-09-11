@@ -1,0 +1,13 @@
+
+.imagen-div {
+    text-align:center;
+    padding: 15px;
+}
+
+img{    
+    /*position: relative;*/
+   /* top: 56px;*/   
+    width: 40%;
+    max-height: 30%; 
+    border-radius: 40%;
+}
